@@ -27,7 +27,7 @@ $(document).ready(function() {
 					    "content-type": "application/json"
 					  },
 					  "processData": false,
-					  "data": "{\"SKU\":\"BathMat-24x17\",\"Template\":\"Single\",\"Images\":[{\"LayerId\":\"9A5BD\",\"Image\":{\"Url\":\""+ "http://qiniu-cdn.carhot.cn/" + data.key +"\",\"MaxFit\":\"true\",\"X1\":677,\"X2\":3152,\"Y1\":72,\"Y2\":1227}}]}"
+					  "data": "{\"SKU\":\"ChenilleRug-56x69\",\"Template\":\"Single\",\"Images\":[{\"LayerId\":\"9A5BD\",\"Image\":{\"Url\":\""+ "http://qiniu-cdn.carhot.cn/" + data.key +"\",\"MaxFit\":\"true\",\"X1\":0,\"X2\":3152,\"Y1\":72,\"Y2\":1227}}]}"
 					}
 
 					$.ajax(settings).done(function (res) {					
